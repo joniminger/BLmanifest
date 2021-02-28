@@ -1,0 +1,38 @@
+{
+  "name": "Batur Lombok",
+  "short_name": "BATURLOMBOK",
+  "start_url": "https://www.baturlombok.eu.org",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#01345D",
+  "description": "Personal blog BaturLombok,Best blog information | Blog yang berisi tentang tips dan trik | hal-hal yang popular seperti,ebook,apk,teamplate,plugin,software,tools,dan lainnya.. ",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-hM4iEp2NvAQ/YDun-olqH2I/AAAAAAAAAro/rMpWGQL3drcQ1vDC2zBfE6geWr4EV1rGwCLcBGAsYHQ/s48/Json.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hM4iEp2NvAQ/YDun-olqH2I/AAAAAAAAAro/rMpWGQL3drcQ1vDC2zBfE6geWr4EV1rGwCLcBGAsYHQ/s72/Json.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hM4iEp2NvAQ/YDun-olqH2I/AAAAAAAAAro/rMpWGQL3drcQ1vDC2zBfE6geWr4EV1rGwCLcBGAsYHQ/s96/Json.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hM4iEp2NvAQ/YDun-olqH2I/AAAAAAAAAro/rMpWGQL3drcQ1vDC2zBfE6geWr4EV1rGwCLcBGAsYHQ/s144/Json.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hM4iEp2NvAQ/YDun-olqH2I/AAAAAAAAAro/rMpWGQL3drcQ1vDC2zBfE6geWr4EV1rGwCLcBGAsYHQ/s168/Json.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hM4iEp2NvAQ/YDun-olqH2I/AAAAAAAAAro/rMpWGQL3drcQ1vDC2zBfE6geWr4EV1rGwCLcBGAsYHQ/s192/Json.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hM4iEp2NvAQ/YDun-olqH2I/AAAAAAAAAro/rMpWGQL3drcQ1vDC2zBfE6geWr4EV1rGwCLcBGAsYHQ/s512/Json.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
